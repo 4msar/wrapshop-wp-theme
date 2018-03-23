@@ -12,17 +12,17 @@ e-commerce, two-columns, left-sidebar, right-sidebar, custom-background, custom-
 
 ## Frequently Asked Questions
 
-> Does this theme support any plugins?
+**Does this theme support any plugins?**
 
 wrapshop includes support for Infinite Scroll in Jetpack and YITH WooCommerce Wishlist.
 
-``` Credits ```
+ **Credits**
 
 * Lato - Google Fonts
 Lato by Łukasz Dziedzic, https://fonts.google.com/specimen/Lato
 
-License: SIL OPEN FONT LICENSE
-License URI: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
+	License: SIL OPEN FONT LICENSE
+	License URI: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
 
 * Font-Awesome
 FontAwesome 4.2.0
@@ -56,14 +56,6 @@ License URL: https://github.com/briangonzalez/rgbaster.js#license
 
 Storefront by WooTheme https://github.com/woocommerce/storefront.
 Storefront is a robust and flexible WordPress theme, designed and built by the team at WooCommerce to help you make the most out of using the WooCommerce plugin to power your online store. It's available to download for free at the WordPress theme repository.
-```
 License:      	GNU General Public License v2 or later
 License URI:  	http://www.gnu.org/licenses/gpl-2.0.html
-```
 
-```
-Image:
-https://pixabay.com/en/girl-shopping-toys-model-fashion-2184000/
-License:      	CC0 Public Domain
-License URI:  	https://creativecommons.org/publicdomain/zero/1.0/deed.en
-```
